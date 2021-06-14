@@ -1,4 +1,6 @@
-### Hi there 👋
+### Oiiii, meu nome é Gabriela! :D
+
+Oi, eu sou de Santa Maria-RS e curso informática no CTISM-UFSM.
 
 <!--
 **gabstopper-gameplays/gabstopper-gameplays** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
