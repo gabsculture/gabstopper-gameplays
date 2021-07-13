@@ -20,7 +20,7 @@ eu gosto de...
 # Como entrar em contato comigo?📞
 Vindo de hiroshima naga**zap**: +55 55 99160-2798
 
-Ou através do meu **e-mail**: gabrielavitóriadarosasoares@gmail.com
+Ou através do meu **e-mail**: gabrielavitoriadarosasoares@gmail.com
 
 # Fato divertido⚡
 Ouvir [Butter](https://www.youtube.com/watch?v=WMweEpGlu_U) ou [Permission to Dance](https://www.youtube.com/watch?v=CuklIb9d3fI) sem pausar e pular os anúncios te dá mais 15 anos de vida cheios de saúde!
