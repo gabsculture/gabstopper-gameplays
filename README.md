@@ -1,20 +1,27 @@
-### Oiiii, meu nome é Gabriela! :D
-estou escrevendo isso enquanto estou em uma nova branch :)
-Oi, eu sou de Santa Maria-RS e curso informática no CTISM-UFSM.
+# Olá! 😄
+## 
+Meu nome é Gabriela, sou uma adolescente brasileira e atualmente estou fazendo um técnico em informática no CTISM.
 
-<!--
-**gabstopper-gameplays/gabstopper-gameplays** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Quais os meus hobbies?🎨
+eu gosto de...
+- Jogar com meus amigos 🎮
+- Desenhar 🎨
+- Passar o tempo com as pessoas que amo 🥰
+- Ver animes 🖥️
+- Irritar os outros só para rir 😂
+- Aprender novos idiomas📚
+- Ouvir músicas🎵
 
-Here are some ideas to get you started:
+# Redes sociais💻 
 
-- 🔭 I’m currently working on ...
-Estudando
-- 🌱 I’m currently learning ...
+-   [Instagram](https://www.instagram.com/gab.srosa/)
+-   [Twitter](https://twitter.com/gabsculture_)
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Como entrar em contato comigo?📞
+Vindo de hiroshima naga**zap**: +55 55 99160-2798
+
+Ou através do meu **e-mail**: gabrielavitóriadarosasoares@gmail.com
+
+# Fato divertido⚡
+Ouvir [Butter](https://www.youtube.com/watch?v=WMweEpGlu_U) ou [Permission to Dance](https://www.youtube.com/watch?v=CuklIb9d3fI) sem pausar e pular os anúncios te dá mais 15 anos de vida cheios de saúde!
+
